@@ -64,6 +64,11 @@ The project consists of two main folders:
      npm start
      ```
 
+
+## Video Of web App
+
+[Watch Video](/recipe-share.mp4)
+
 ## 🚀 Installation
 
 1. **Clone this repository:**
@@ -96,9 +101,6 @@ The project consists of two main folders:
 
 5. **Access the application at** `http://localhost:3000` **in your browser.**
 
-6. ## Video Of web App
-
-[Watch Video](/recipe-share.mp4)
 
 
 ## 📄 License
