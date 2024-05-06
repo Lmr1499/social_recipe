@@ -96,6 +96,11 @@ The project consists of two main folders:
 
 5. **Access the application at** `http://localhost:3000` **in your browser.**
 
+6. ## Video Of web App
+
+[Watch Video](/recipe-share.mp4)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
